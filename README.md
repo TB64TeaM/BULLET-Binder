@@ -5,5 +5,7 @@ You can merge your viruses RAT, Grabber, Anypayload,
 you can merge them to become one .EXE file
 and they will work normally and completely without any errors
 
+note : Install Python + install pyinstaller to build the files
+
 Tnx For Uesig My Tool :))
 Endd..
